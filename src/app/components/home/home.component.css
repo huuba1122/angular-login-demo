@@ -1,0 +1,9 @@
+nav{
+    margin: 0 5%;
+}
+
+.dropdown-user{
+    left: auto;
+    right: -15px;
+    min-width: 6rem;
+}
